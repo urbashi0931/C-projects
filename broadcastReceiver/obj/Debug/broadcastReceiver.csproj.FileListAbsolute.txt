@@ -1,0 +1,8 @@
+C:\Users\Urbashi\source\repos\broadcastReceiver\broadcastReceiver\bin\Debug\broadcastReceiver.exe.config
+C:\Users\Urbashi\source\repos\broadcastReceiver\broadcastReceiver\bin\Debug\broadcastReceiver.exe
+C:\Users\Urbashi\source\repos\broadcastReceiver\broadcastReceiver\bin\Debug\broadcastReceiver.pdb
+C:\Users\Urbashi\source\repos\broadcastReceiver\broadcastReceiver\obj\Debug\broadcastReceiver.csproj.AssemblyReference.cache
+C:\Users\Urbashi\source\repos\broadcastReceiver\broadcastReceiver\obj\Debug\broadcastReceiver.csproj.SuggestedBindingRedirects.cache
+C:\Users\Urbashi\source\repos\broadcastReceiver\broadcastReceiver\obj\Debug\broadcastReceiver.csproj.CoreCompileInputs.cache
+C:\Users\Urbashi\source\repos\broadcastReceiver\broadcastReceiver\obj\Debug\broadcastReceiver.exe
+C:\Users\Urbashi\source\repos\broadcastReceiver\broadcastReceiver\obj\Debug\broadcastReceiver.pdb
